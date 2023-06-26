@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MyLeagueMains</string>
+
+    <string name="about">About</string>
+    <string name="about_name">Ciptagusti Sila Sakti</string>
+
+    <string name="about_email">a305dsx2455@bangkit.academy</string>
+    <string name="champion_alias">Champion Alias</string>
+    <string name="champion_name">Champion Name</string>
+    <string name="champion_description">this is champion description. The champion got a simple short background story. They usually have connection with other champions. Usually the description consist of the champion</string>
+    <string name="champion_quotes">This is the champion\'s quotes. Something they said about their perspective i guess...</string>
+
+    <string-array name="data_name">
+        <item>Twisted Fate</item>
+        <item>Graves</item>
+        <item>Senna</item>
+        <item>Taric</item>
+        <item>Braum</item>
+        <item>Udyr</item>
+        <item>Yorick</item>
+        <item>Pantheon</item>
+        <item>Zilean</item>
+        <item>Morgana</item>
+        <item>Lux</item>
+    </string-array>
+
+    <string-array name="data_alias">
+        <item>the Card Master</item>
+        <item>the Outlaw</item>
+        <item>the Redeemer</item>
+        <item>the Shield of Valoran</item>
+        <item>the Heart of the Freljord</item>
+        <item>the Spirit Walker</item>
+        <item>the Shepherd of Souls</item>
+        <item>the Unbreakable Spear</item>
+        <item>the Chronokeeper</item>
+        <item>the Fallen</item>
+        <item>the Lady of Luminosity</item>
+    </string-array>
+
+    <string-array name="data_splashart">
+        <item>@drawable/c_twisted_fate</item>
+        <item>@drawable/c_graves</item>
+        <item>@drawable/c_senna</item>
+        <item>@drawable/c_taric</item>
+        <item>@drawable/c_braum</item>
+        <item>@drawable/c_udyr</item>
+        <item>@drawable/c_yorick</item>
+        <item>@drawable/c_pantheon</item>
+        <item>@drawable/c_zilean</item>
+        <item>@drawable/c_morgana</item>
+        <item>@drawable/c_lux</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Twisted Fate is an infamous cardshark and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking smile and an insouciant swagger. In every possible way, Twisted Fate always has an ace up his sleeve.</item>
+        <item>Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a sense of criminal honor, often enforced at the business end of his double-barreled shotgun, Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater’s criminal underbelly.</item>
+        <item>Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed: her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.</item>
+        <item>Taric is host to the Aspect of the Protector, wielding incredible power as Runeterra\'s guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland of Demacia, Taric climbed Mount Targon to find redemption, only to discover a higher calling among the stars. Imbued with the might of a celestial being, the “Shield of Valoran” now stands ever vigilant, against any who would threaten the people of this world.</item>
+        <item>Blessed with massive biceps and an even bigger heart, Braum is a beloved Iceborn hero of the Freljord. Every mead hall north of Frostheld toasts his legendary strength and tells tales of how he felled a forest of oaks in a single night, and punched an entire mountain into rubble. With his shield, an enchanted vault door vault door forged in ages past, Braum roams the frozen north as a cheerful protector, helping the vulnerable as he works toward his dream of a peaceful Freljord.</item>
+        <item>The most powerful spirit walker alive, Udyr communes with all the spirits of the Freljord, whether by empathically understanding their needs, or by channeling and transforming their ethereal energy into his own primal fighting style. He seeks balance within, so that his mind does not get lost amidst others, but he also seeks balance without—for the Freljord\'s mystical landscape can only thrive with the growth that comes from conflict and struggle, and Udyr knows that sacrifices must be made to keep peaceful stagnance at bay.</item>
+        <item>The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick\'s monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.</item>
+        <item>Once an unwilling host to the Aspect of War, Atreus survived when the celestial power within him was slain, refusing to succumb to a blow that tore stars from the heavens. In time, he learned to embrace the power of his own mortality, and the stubborn resilience that goes along with it. Atreus now opposes the divine as Pantheon reborn, his unbreakable will fueling the fallen Aspect’s weapons on the field of battle.</item>
+        <item>Once a member of Icathia\'s governing council, Zilean is a prodigious elemental mage who seeks mastery over time itself. After using his powers in an attempt to save his people from the Void, he now drifts through the past, present, and future, bending and warping the flow of time around him. Zilean has traveled from Runeterra\'s mysterious creation, all the way to its seemingly inevitable ending, searching tirelessly for any strand of fate that might undo his homeland\'s destruction.</item>
+        <item>Conflicted between her celestial and mortal natures, Morgana bound her wings to embrace humanity, and inflicts her pain and bitterness upon the dishonest and the corrupt. She rejects laws and traditions she believes are unjust, and fights for truth from the shadows of Demacia—even as others seek to repress it—by casting shields and chains of dark fire. More than anything else, Morgana truly believes that even the banished and outcast may one day rise again.</item>
+        <item>Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret in order to preserve her family\'s noble status. Nonetheless, Lux\'s optimism and resilience have led her to embrace her unique talents, and she now seeks to bring greater tolerance and understanding to her homeland.</item>
+    </string-array>
+
+    <string-array name="data_quotes">
+        <item>\"It\'s not gambling if you can\'t lose...\"</item>
+        <item>\"We\'re here for your gold, not your heads… so don’t nobody decide to be a hero.\"</item>
+        <item>\"As shadows embrace the light, I will embrace them...\"</item>
+        <item>\"The best weapons are beautiful.\"</item>
+        <item>\"Today, we fight as enemies. Tomorrow, we may fight as brothers.\"</item>
+        <item>\"I can taste our enemies\' hunger for victory. Let them starve.\"</item>
+        <item>\"These isles... how they scream.\"</item>
+        <item>\"Here is my eternity… a day the gods will remember!\"</item>
+        <item>\"There is no greater grief than for a loss that is yet to come.\"</item>
+        <item>\"Only those you love can break your heart.\"</item>
+        <item>\"The light inside is what makes me different, and I\'m always careful where I shine it.\"</item>
+    </string-array>
+
+</resources>
